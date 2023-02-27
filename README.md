@@ -11,6 +11,7 @@ npm start
 ```
 http://localhost:1338
 ```
+![lo](https://user-images.githubusercontent.com/118302022/221478056-3867c8bc-615a-47c3-a14d-f974ce32711e.PNG)
 
 ![1](https://user-images.githubusercontent.com/118302022/221475993-1774241c-4d7b-4727-8319-2457fdc564b7.png)
 # What is COVID-19?
